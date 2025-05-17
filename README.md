@@ -15,6 +15,12 @@ Entre esses dois papéis, há um agente intermediário que identifica a melhor a
 
 ---
 
+## Por que o nome CULTRA?
+
+O nome **CULTRA** é uma junção das palavras *Culinária* e *Cultura*. Ele reflete a essência do projeto: um sistema que entende que cozinhar é muito mais que seguir uma receita. É uma prática cultural, ligada a hábitos, contexto financeiro, preferências e limitações pessoais. CULTRA traz inteligência e sensibilidade para tornar a experiência culinária mais humana, realista e adaptada a cada usuário.
+
+---
+
 ## Por que esse projeto?
 
 No meio da avalanche de assistentes virtuais que só repetem receitas genéricas, CULTRA é diferente. Ele entende que cozinhar é uma experiência humana, ligada a cultura, limitações e contexto financeiro — e trata tudo isso com a precisão de uma IA e a sutileza de um parceiro.
