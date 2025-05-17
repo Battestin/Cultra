@@ -1,71 +1,63 @@
 # CULTRA — Sistema Inteligente de Agentes para Assistência Culinária
 
-Bem-vindo ao **CULTRA**, meu projeto desenvolvido durante a Imersão IA da Alura. Aqui, criei um sistema multiagentes que entende o perfil do usuário, oferece sugestões e acompanha o preparo culinário com um toque inteligente, realista e humano.
+Bem-vindo ao **CULTRA**, projeto criado durante a Imersão IA da Alura para desenvolver um sistema multiagentes capaz de interagir de forma contínua e natural com o usuário na cozinha.
 
 ---
 
 ## O que é o CULTRA?
 
-CULTRA é um assistente culinário com duas faces:
+CULTRA é um assistente culinário com múltiplas facetas:
 
-- **Assistente Culinário**: ajuda a executar receitas com instruções claras, adaptadas ao nível do cozinheiro e sua realidade.  
-- **Consultor Culinário**: sugere receitas, adapta sugestões às restrições, preferências e orçamento do usuário.
+- **Assistente Culinário**: fornece instruções objetivas e adaptadas para preparar receitas conforme o perfil e contexto do usuário.  
+- **Consultor Culinário**: sugere receitas, adapta recomendações a restrições e orçamento, e propõe soluções criativas.  
+- **Agente Intermediário**: identifica o melhor caminho de atendimento (assistente ou consultor) em cada momento da conversa.
 
-Entre esses dois papéis, há um agente intermediário que identifica a melhor abordagem para cada interação, criando uma experiência fluida e personalizada.
+Além disso, um agente dedicado monitora o diálogo para detectar quando o usuário deseja encerrar a interação, garantindo uma experiência natural e fluida.
 
 ---
 
 ## Por que o nome CULTRA?
 
-O nome **CULTRA** é uma junção das palavras *Culinária* e *Cultura*. Ele reflete a essência do projeto: um sistema que entende que cozinhar é muito mais que seguir uma receita. É uma prática cultural, ligada a hábitos, contexto financeiro, preferências e limitações pessoais. CULTRA traz inteligência e sensibilidade para tornar a experiência culinária mais humana, realista e adaptada a cada usuário.
+A junção de *Culinária* e *Cultura* traduz a essência do projeto: uma IA que entende que cozinhar envolve tradições, limitações pessoais, e contexto financeiro — e entrega uma experiência humana e prática.
 
 ---
 
-## Por que esse projeto?
+## O diferencial
 
-No meio da avalanche de assistentes virtuais que só repetem receitas genéricas, CULTRA é diferente. Ele entende que cozinhar é uma experiência humana, ligada a cultura, limitações e contexto financeiro — e trata tudo isso com a precisão de uma IA e a sutileza de um parceiro.
-
-Além disso, o projeto é uma vitrine técnica da minha habilidade em orquestrar múltiplos agentes, criando diálogos coesos e eficientes.
-
----
-
-## Funcionalidades principais
-
-- Mapeamento detalhado do perfil do usuário (nível, idade, restrições, orçamento)  
-- Classificação automática da intenção do usuário para definir o melhor agente a atender  
-- Respostas claras e práticas, com apresentação elegante das receitas  
-- Sugestões criativas e alinhadas a necessidades nutricionais e preferências pessoais  
-- Recomendações de harmonização para transformar qualquer prato em uma experiência completa  
+- Interação contínua em loop, com monitoramento ativo para encerramento natural da conversa.  
+- Perguntas estratégicas para mapear perfil e contexto do usuário uma única vez.  
+- Direcionamento inteligente para o agente que melhor atende o contexto da conversa.  
+- Respostas personalizadas, claras e bem apresentadas, seja por texto ou voz.  
+- Sugestões alinhadas a necessidades nutricionais, preferências e orçamento.  
+- Insights adicionais de harmonização para enriquecer a experiência.
 
 ---
 
-## Tecnologias e ferramentas
+## Tecnologias e arquitetura
 
-- Modelo GPT-4 com fine-tuning para agentes especializados  
-- Arquitetura modular e escalável, facilitando expansão futura  
-- Fluxo de orquestração inteligente para decisão e direcionamento das respostas  
+- Modelos GPT-4 customizados para agentes especializados.  
+- Arquitetura modular com orquestração inteligente para fluxo dinâmico.  
+- Implementação pensada para fácil expansão e integração futura.
 
 ---
 
 ## Como usar?
 
-Basta rodar o código principal para iniciar a interação. O sistema começará traçando seu perfil, identificando suas necessidades e entregando desde a receita perfeita até dicas de harmonização.
+Execute o sistema principal. Ele começará coletando seu perfil, e a partir daí, interagirá até você decidir encerrar a conversa, respeitando seu ritmo e preferências.
 
 ---
 
 ## Próximos passos
 
-- Integrar interface gráfica com suporte a voz e texto  
-- Aprimorar o sistema para aprendizado contínuo do perfil do usuário  
-- Expansão para incluir planos alimentares e controle nutricional  
+- Interface gráfica com suporte nativo a voz e texto.  
+- Aprendizado adaptativo do perfil do usuário em múltiplas sessões.  
+- Inclusão de planos alimentares e controle nutricional avançado.
 
 ---
 
-## Por que você deveria olhar esse projeto?
+## Por que acompanhar esse projeto?
 
-Porque ele é mais que um simples chatbot de receitas. É uma inteligência que respeita o cozinheiro por trás do prato, que entende limitações reais e traz a culinária para o dia a dia de forma prática e humanizada.
-
-Se você gosta de IA aplicada com propósito e sem enrolação, esse projeto merece sua atenção.
+Porque CULTRA não é só mais um chatbot. É uma inteligência que respeita o cozinheiro real, seus limites e contexto, e entrega valor prático e humano.
 
 ---
 
